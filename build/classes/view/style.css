@@ -1,0 +1,6 @@
+.grid {
+    -fx-background-image: url("checkered.png");
+}
+#btn {
+    -fx-background-color: transparent;
+}
